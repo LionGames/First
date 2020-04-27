@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="titleName">Моя первая игра</string>
+    <string name="logo">logo</string>
+    <string name="button2">Начать</string>
+    <string name="button3">Высший результат</string>
+    <string name="button5">Выйти</string>
+</resources>
